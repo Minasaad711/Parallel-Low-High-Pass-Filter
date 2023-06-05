@@ -1,0 +1,3 @@
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Debug\ProjectParallel.vcxproj.AssemblyReference.cache
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Debug\ProjectParallel.vcxproj.SuggestedBindingRedirects.cache
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Debug\ProjectParallel.exe

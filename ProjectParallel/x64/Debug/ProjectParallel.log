@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Source.cpp(126,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Source.cpp(163,53): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Source.cpp(309,53): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  ProjectParallel.vcxproj -> D:\AI\Year 3\semster 2\Parallel Programming\Project\ProjectParallel\x64\Debug\ProjectParallel.exe
